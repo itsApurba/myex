@@ -1,0 +1,17 @@
+{
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "description": "Displays motivation quotes on the new tab page",
+  "icons": {
+    "128": "img/icons/quote_square_128.png",
+    "16": "img/icons/quote_square_16.png",
+    "48": "img/icons/quote_square_48.png"
+  },
+
+  "manifest_version": 3,
+  "minimum_chrome_version": "20.0.1132.47",
+  "name": "MyEx",
+
+  "version": "0.5"
+}
