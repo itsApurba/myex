@@ -1,4 +1,0 @@
-// "update_url": "https://clients2.google.com/service/update2/crx",
-
-
-   // "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlgCryGCHAfdrzedCpBeqw97Zut3rTvNcoXvRFOESK8nHSGxu44oTvgcD66SbX34VH53CBY66mHAVApkUFLJschkxKjkVp+/DEyOtzUO4aFJZ8kBLPRdbjM8v9rhXmCEGmclhcvmWGFrTlVlRBkXqAMvIA2n7hZiRKt4AE1FO3oWepWxrEJQ7bKv2b252vf80p7217lTNUjpRsO3Mnu+x++45OYk5MeoZMJJWKrRcypclNFAPYex3tJvl1x3VFMG8jPIUEb0A2yzK9XqDyav0CjzCgjnAQearIvxItKP9odHVhJi+NYHXl1RdZPWu+jXxARfIW2D0cIVHj4ZSH/eMVwIDAQAB",
